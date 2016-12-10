@@ -167,7 +167,7 @@ PAGE: CONTACT
   margin: 0 0 10px;
 }
 
-.contact-info li.phone a {
+.contact-info li.phone p {
   background-image: url('../img/phone.png');
 }
 
@@ -225,17 +225,3 @@ nav a.selected, nav a:hover {
 #gallery li a:hover {
   background-color:#4CAF50;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
